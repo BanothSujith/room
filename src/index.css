@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+
+.full-width-calendar {
+    width: 100% ;
+  }
+  
+  .react-datepicker__month-container {
+    width: 100% ;
+  }
+  
+  .react-datepicker__month {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100% ;
+  }
+  
+  .react-datepicker__week {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+ 
+  
+
+
+
+  
